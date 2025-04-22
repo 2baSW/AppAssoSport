@@ -1,2 +1,2 @@
 # AppAssoSport
-Projet académique destiné à la création du application qui permet de gérer une association sportive
+Projet académique destiné à la création d'une application qui permet de gérer une association sportive.
