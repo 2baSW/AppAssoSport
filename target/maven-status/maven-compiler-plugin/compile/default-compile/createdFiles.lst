@@ -1,0 +1,10 @@
+servlet/GroupeServlet.class
+rest/GroupeResource.class
+rest/AppConfig.class
+dao/AdherentDAO.class
+entity/Groupe.class
+rest/AdherentResource.class
+App/Main.class
+dao/GroupeDAO.class
+entity/Adherent.class
+servlet/AdherentServlet.class

@@ -1,0 +1,10 @@
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/App/Main.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/dao/AdherentDAO.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/dao/GroupeDAO.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/entity/Adherent.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/entity/Groupe.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/rest/AdherentResource.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/rest/AppConfig.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/rest/GroupeResource.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/servlet/AdherentServlet.java
+/home/baba_sow/Documents/Web/AppAssoSport/src/main/java/servlet/GroupeServlet.java
